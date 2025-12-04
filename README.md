@@ -39,6 +39,7 @@ I'm a passionate **Java** and **Python** developer.
 ---
 
 ### ⚙️ Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Telle-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Telle-dev&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Telle-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Telle-dev&layout=compact&theme=tokyonight&cache_seconds=1800)
 
