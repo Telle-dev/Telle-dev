@@ -6,6 +6,7 @@ right now i'm learning typescript.
 **stuff i made**
 
 - [canidelete](https://github.com/Telle-dev/canidelete) - tells you which workarounds in your code you can delete because the bug got fixed or you updated the dependency
+- [TiersSpoofer](https://github.com/Telle-dev/TiersSpoofer) - fabric mod that shows mctiers / pvptiers tags and lets you set custom tiers, names, colors and skins (client side only)
 - [Auto-Message](https://github.com/Telle-dev/Auto-Message) - auto chat messages with clickable links, commands and sounds (1.13 - 1.21+)
 - [Anti-Item-Explosions](https://github.com/Telle-dev/Anti-Item-Explosions) - stops explosions, fire and lava from destroying items and whitelisted blocks
 - [ItemBlocker](https://github.com/Telle-dev/ItemBlocker) - block items from being crafted, used, dropped, placed or picked up. also cleans them out of shulkers
