@@ -1,56 +1,22 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Tellegram: Discord bot and Minecraft plugin developer" width="100%">
-</p>
+### hey, i'm tellegram
 
-<p align="center">
-  <a href="https://discord.gg/DCUQJuDbhB"><img src="https://img.shields.io/badge/Discord-Join_my_server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server"></a>
-  <a href="https://discord.com/users/1094125893875671050"><img src="https://img.shields.io/badge/DM-Message_me-7aa2f7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord DM"></a>
-  <a href="#-support"><img src="https://img.shields.io/badge/Donate-LTC-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" alt="Donate LTC"></a>
-</p>
+i'm from germany and i mostly make discord bots (python / discord.js) and minecraft plugins for paper and spigot.
+right now i'm learning typescript.
 
-## 👨🏻‍💻 About me
+**stuff i made**
 
-- 🤖 I build **Discord bots** with Python and discord.js
-- ⛏️ I make **Paper / Spigot / Purpur plugins** for Minecraft servers
-- 🛠️ Latest project: **[canidelete](https://github.com/Telle-dev/canidelete)**, a tool that finds workarounds in your code you can finally delete
-- 🌱 Currently leveling up in **TypeScript**
-- 💬 Ask me about **Java**, **Python** or plugin development
+- [canidelete](https://github.com/Telle-dev/canidelete) - tells you which workarounds in your code you can delete because the bug got fixed or you updated the dependency
+- [Auto-Message](https://github.com/Telle-dev/Auto-Message) - auto chat messages with clickable links, commands and sounds (1.13 - 1.21+)
+- [Anti-Item-Explosions](https://github.com/Telle-dev/Anti-Item-Explosions) - stops explosions, fire and lava from destroying items and whitelisted blocks
+- [ItemBlocker](https://github.com/Telle-dev/ItemBlocker) - block items from being crafted, used, dropped, placed or picked up. also cleans them out of shulkers
 
-## 🚀 Featured projects
+**i use** java, python, javascript/typescript, node, intellij and vscode
 
-<table>
-  <tr>
-    <td><a href="https://github.com/Telle-dev/canidelete"><img src="assets/cards/canidelete.svg" alt="canidelete" width="100%"></a></td>
-    <td><a href="https://github.com/Telle-dev/Auto-Message"><img src="assets/cards/Auto-Message.svg" alt="Auto-Message" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Telle-dev/Anti-Item-Explosions"><img src="assets/cards/Anti-Item-Explosions.svg" alt="Anti-Item-Explosions" width="100%"></a></td>
-    <td><a href="https://github.com/Telle-dev/ItemBlocker"><img src="assets/cards/ItemBlocker.svg" alt="ItemBlocker" width="100%"></a></td>
-  </tr>
-</table>
+**contact** - [my discord server](https://discord.gg/DCUQJuDbhB) or just [dm me](https://discord.com/users/1094125893875671050)
 
-## 🧰 Tech stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,nodejs,discordjs,gradle,maven,git,github,idea,vscode&theme=dark" alt="Java, Python, JavaScript, TypeScript, Node.js, discord.js, Gradle, Maven, Git, GitHub, IntelliJ, VS Code">
-</p>
-
-## 📊 Stats
-
-<p>
-  <img src="assets/stats.svg" alt="GitHub stats" width="49%">
-  <img src="assets/languages.svg" alt="Most used languages" width="49%">
-</p>
+if you want to support me: LTC `LYAhqRNLjzSCfAzFKGLRnRA7qFnfidbT1U`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Telle-dev/Telle-dev/output/snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Telle-dev/Telle-dev/output/snake.svg" width="100%">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Telle-dev/Telle-dev/output/snake.svg">
 </picture>
-
-## 💜 Support
-
-If my plugins or tools helped you, you can support me with Litecoin:
-
-**LTC:** `LYAhqRNLjzSCfAzFKGLRnRA7qFnfidbT1U`
-
-<p align="center"><sub>Stats and snake update automatically every day.</sub></p>
