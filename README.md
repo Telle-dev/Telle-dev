@@ -12,7 +12,7 @@ right now i'm learning typescript.
 
 **i use** java, python, javascript/typescript, node, intellij and vscode
 
-**contact** - [my discord server](https://discord.gg/DCUQJuDbhB) or just [dm me](https://discord.com/users/1094125893875671050)
+**discord** - @tellegram_
 
 if you want to support me: LTC `LYAhqRNLjzSCfAzFKGLRnRA7qFnfidbT1U`
 
